@@ -1,0 +1,14 @@
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\obj\Release\CustomPrintSpoof.csproj.AssemblyReference.cache
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\obj\Release\CustomPrintSpoof.csproj.CoreCompileInputs.cache
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\bin\Release\CustomPrintSpoof.exe.config
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\bin\Release\CustomPrintSpoof.exe
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\bin\Release\CustomPrintSpoof.pdb
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\obj\Release\CustomPrintSpoof.exe
+D:\Misc\OSEP\Tools\SharpSpoolTrigger\obj\Release\CustomPrintSpoof.pdb
+D:\Misc\OSEP\Tools\CustomPrintSpoof\bin\Release\CustomPrintSpoof.exe.config
+D:\Misc\OSEP\Tools\CustomPrintSpoof\bin\Release\CustomPrintSpoof.exe
+D:\Misc\OSEP\Tools\CustomPrintSpoof\bin\Release\CustomPrintSpoof.pdb
+D:\Misc\OSEP\Tools\CustomPrintSpoof\obj\Release\CustomPrintSpoof.csproj.AssemblyReference.cache
+D:\Misc\OSEP\Tools\CustomPrintSpoof\obj\Release\CustomPrintSpoof.csproj.CoreCompileInputs.cache
+D:\Misc\OSEP\Tools\CustomPrintSpoof\obj\Release\CustomPrintSpoof.exe
+D:\Misc\OSEP\Tools\CustomPrintSpoof\obj\Release\CustomPrintSpoof.pdb
