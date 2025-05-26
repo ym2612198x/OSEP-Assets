@@ -16,7 +16,7 @@ Modified SharpSpoolTrigger to escalate to an interactive SYSTEM prompt on the cu
 
 ### Loader1CPP
 
-C++ .exe remote shellcode download and inject loader\n
-Winapi remote process creation and APC injection\n
-AES payload decryption\n
-Chunked alloc/copy/protect\n 
+C++ .exe remote shellcode download and inject loader<br>
+Winapi remote process creation and APC injection<br>
+AES payload decryption<br>
+Chunked alloc/copy/protect<br> 
