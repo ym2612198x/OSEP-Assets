@@ -1,0 +1,11 @@
+﻿  create.cpp
+  decrypt.cpp
+  http.cpp
+  inject.cpp
+  main.cpp
+  misc.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 436 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Loader1CPP.vcxproj -> D:\Misc\OSEP\Loaders\Loader1CPP\x64\Release\Loader1CPP.exe
