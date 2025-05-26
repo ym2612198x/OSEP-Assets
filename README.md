@@ -13,3 +13,10 @@ Script to perform a caesar encryption on STDOUT.
 ### CustomPrintSpoof
 
 Modified SharpSpoolTrigger to escalate to an interactive SYSTEM prompt on the current machine if no arguments are given.
+
+### Loader1CPP
+
+C++ .exe remote shellcode download and inject loader
+Winapi remote process creation and APC injection
+AES payload decryption
+Chunked alloc/copy/protect 
