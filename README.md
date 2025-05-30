@@ -10,6 +10,10 @@ Script to create a download and execute cradle for agents.
 
 Script to perform a caesar encryption on STDOUT.
 
+### cmd-encrypt.py
+
+Script to encode PowerShell commands into base64 for easier transport.
+
 ### CustomPrintSpoof
 
 Modified SharpSpoolTrigger to escalate to an interactive SYSTEM prompt on the current machine if no arguments are given.
